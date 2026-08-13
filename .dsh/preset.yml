@@ -1,0 +1,3 @@
+name: Hermes DSH 总集成
+description: Hermes Harness 全部 40 个 DSH 衍生项目的总集成入口：项目索引、CATALOG 目录与一键安装脚本。Master integration for all 40 Hermes Harness DSH derivative projects: catalog, index, and one-click installer.
+order: 4
