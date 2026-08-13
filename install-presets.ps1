@@ -6,7 +6,7 @@
 .DESCRIPTION
   扫描 SourceRoot 下所有含 .dsh\preset.yml 的仓库目录，将每个 .dsh 目录整体复制到
   $DSH_HOME\.agent-presets\<预设ID>（预设ID = 仓库名（dsh- 前缀，无后缀））。
-  默认 SourceRoot 为本脚本所在目录的上一级（即 projects 输出根，40 个衍生仓库所在处）。
+  默认 SourceRoot 为本脚本所在目录的上一级（即 projects 输出根，31 个衍生仓库所在处）。
 
   本脚本只做复制，不执行源架构中的任何脚本。
 

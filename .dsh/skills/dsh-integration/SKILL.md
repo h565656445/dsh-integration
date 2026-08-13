@@ -1,11 +1,11 @@
 ---
 name: dsh-integration
-description: 定位与安装全部 40 个 Hermes Harness DSH 衍生项目：项目索引、CATALOG 目录与一键安装 / Locate and install all 40 Hermes Harness DSH derivative projects: catalog, index, and one-click installer
+description: 定位与安装全部 31 个 Hermes Harness DSH 衍生项目：项目索引、CATALOG 目录与一键安装 / Locate and install all 31 Hermes Harness DSH derivative projects: catalog, index, and one-click installer
 ---
 
 # Hermes DSH 总集成 / Hermes DSH Master Integration
 
-本技能帮助用户在 40 个 DSH 衍生项目中快速定位目标仓库、解读 CATALOG.md 的分组结构，并指导使用 install-presets.ps1 完成一键安装。
+本技能帮助用户在 31 个 DSH 衍生项目中快速定位目标仓库、解读 CATALOG.md 的分组结构，并指导使用 install-presets.ps1 完成一键安装。
 
 This skill helps locate a target repository among the 42 DSH derivative projects, navigate the CATALOG.md group structure, and use install-presets.ps1 for one-click installation.
 
@@ -17,7 +17,7 @@ Use when you need to find a Hermes Harness derivative project, understand the A�
 
 ## Workflow / 工作流
 
-1. 读取 CATALOG.md 与 README 中的 40 项目索引表。
+1. 读取 CATALOG.md 与 README 中的 31 项目索引表。
 2. 按关键字定位项目（组 / 编号 / repo 名 / 一句话简介）。
 3. 如需安装，运行 install-presets.ps1（可加 -Only 指定单个仓库）。
 4. 验证 $DSH_HOME\.agent-presets\ 下对应预设目录是否就位。
